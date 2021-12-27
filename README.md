@@ -1,4 +1,4 @@
-# pyspark-collect-exemple
+# pyspark-collect-example
 
 O collect() é uma operação de ação no pyspark usada para recuperar todos os elementos do conjunto de dados, ideal para pequenos datasets.
 
